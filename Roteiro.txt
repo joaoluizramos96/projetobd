@@ -1,0 +1,9 @@
+Ordem de execução dos arquivos - 2ª VA
+
+1 - Mini-Mundo;
+2 - Modelagem Conceitual;
+3 - Modelagem Lógica;
+4 - Abrir a pasta Scripts - Projeto e abrir os arquivos em sua sequência;
+5 - Abrir a pasta projeto_aluguel_vestuario, importá-la ao Eclipse e ir "descomentando" as funções no código RelatoriosProjeto.
+
+Grato desde já.
