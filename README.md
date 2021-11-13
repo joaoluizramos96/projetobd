@@ -1,4 +1,4 @@
-<p align=center> # **Mini-mundo – Projeto de Banco de Dados** </p>
+# <p align=center> **Mini-mundo – Projeto de Banco de Dados** </p>
 
 Uma loja que realiza aluguéis de roupas para eventos (ternos, vestidos, entre outros itens) precisa de um sistema de gerenciamento de seu negócio. O cliente solicita ao funcionário qual item deseja alugar e por quanto tempo. O sistema armazenará do cliente alguns dados, como CPF, nome, sexo, endereço, telefone, e e-mail.
 
