@@ -6,8 +6,8 @@ Um cliente pode alugar mais de uma peça. O funcionário verifica se o item soli
 
 No aluguel constará algumas informações como, data de aluguel, código do funcionário que realizou o aluguel, item, estado do item e o CPF do cliente que alugou a peça. Quando a entrega do item é realizada, é necessário realizar uma conferência, para verificar se houve ou não degradação do item.
 
-<p> Cliente (CPF, nome, sexo, endereco, telefone, e-mail) </p>
-<p> Funcionario (cod_func, nome, endereco, cargo) </p>
-<p> Item (cod_item, tamanho, titulo, marca, estado, valor_diario) </p>
-<p> Aluguel (data_alug, cod_func, cod_item, CPF, estado) </p>
-<p> Entrega (data_ent, cod_func, cod_item, CPF, estado) </p>
+<p> **Cliente (CPF, nome, sexo, endereco, telefone, e-mail)** </p>
+<p> **Funcionario (cod_func, nome, endereco, cargo)** </p>
+<p> **Item (cod_item, tamanho, titulo, marca, estado, valor_diario)** </p>
+<p> **Aluguel (data_alug, cod_func, cod_item, CPF, estado)** </p>
+<p> **Entrega (data_ent, cod_func, cod_item, CPF, estado)** </p>
